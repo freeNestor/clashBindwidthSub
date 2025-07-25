@@ -1,4 +1,4 @@
-自用vps流量订阅脚本,支持vmiss和hostdare,适用MAC系统（可改造适合其他linux或Windows系统）。
+自用vps流量订阅脚本（原理：页面爬取）,支持vmiss和hostdare,适用MAC系统（可改造适合其他linux或Windows系统）。
 
 ### 环境准备&#xA;
 
