@@ -27,7 +27,7 @@ def log_output(message, to_console=False, to_file=True):
             f.write(f"{timestamp} {message}\n")
 login_url = "https://vps.hostdare.com "            # 替换为你的登录页面地址
 sessid = ""
-purl = "https://vps.hostdare.com/{sessid}/index.php?api=json&act=bandwidth&svs=54436&show=undefined "
+purl = "https://vps.hostdare.com/{sessid}/index.php?api=json&act=bandwidth&svs=替换为你的vpsid号&show=undefined "
 protected_url = purl.format(sessid=sessid)    # 登录后才能访问的页面
 cookie_file_name = "hostdare_cookies.pkl"
 cookie_file_path = "saved_cookies/" + cookie_file_name + ".txt"                   # 用于保存 cookies 的文件名
