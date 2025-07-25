@@ -1,0 +1,2 @@
+# clashBindwidthSub
+自用vps流量订阅脚本,支持vmiss和hostdare
