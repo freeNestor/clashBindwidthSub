@@ -63,7 +63,7 @@ cd clashBindwidthSub
 
 2.  在clash上配置订阅
 
-<img width="425" height="669" alt="iShot_2025-07-25_14 47 01" src="https://github.com/user-attachments/assets/dc4d0a6f-8f1f-408d-9611-2e18a2fd6e9f" /><img width="429" height="667" alt="iShot_2025-07-25_14 47 21" src="https://github.com/user-attachments/assets/f2104f45-9ec3-4e6f-a824-684f53c21ba4" />
+<img width="400" height="600" alt="iShot_2025-07-25_14 47 01" src="https://github.com/user-attachments/assets/dc4d0a6f-8f1f-408d-9611-2e18a2fd6e9f" /><img width="400" height="600" alt="iShot_2025-07-25_14 47 21" src="https://github.com/user-attachments/assets/f2104f45-9ec3-4e6f-a824-684f53c21ba4" />
 
 <img width="994" height="227" alt="iShot_2025-07-25_14 47 37" src="https://github.com/user-attachments/assets/d687f991-39af-4629-835f-708bb7971e1b" />
 <img width="978" height="334" alt="iShot_2025-07-25_14 47 54" src="https://github.com/user-attachments/assets/70bd2f29-8695-4ce0-8926-afb41ed7916d" />
