@@ -41,7 +41,7 @@ pip install seleniumbase BeautifulSoup4 webdriver-manager undetected-chromedrive
 
 3.  安装chrome浏览器（如已安装忽略）
 
-4.  修改shell脚本中的路径为对应的路径，修改Python脚本中url需要替换的id号为你的id号(可通过浏览器devTools查看你的id)，以及用户名和密码为你的账号信息，并保存
+4.  （关键）修改shell脚本中的路径为对应的路径，修改Python脚本中url需要替换的id号为你的id号(可通过浏览器devTools查看你的id)，以及用户名和密码为你的账号信息，并保存
 
 5.  编译go文件，生成可执行文件
 
