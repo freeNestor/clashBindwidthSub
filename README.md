@@ -39,7 +39,7 @@ source clashBindwidthSub/bin/activate
 pip install seleniumbase BeautifulSoup4 webdriver-manager undetected-chromedriver
 ```
 
-3.  安装chrome浏览器（如已安装忽略）
+3.  安装chrome浏览器（如已安装忽略）和jq命令
 
 4.  （关键）修改shell脚本中的路径为对应的路径，修改Python脚本中url需要替换的id号为你的id号(可通过浏览器devTools查看你的id)，以及用户名和密码为你的账号信息，并保存
 
