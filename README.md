@@ -24,7 +24,7 @@
 git clone https://github.com/freeNestor/clashBindwidthSub.git
 ```
 
-1.  创建并激活虚拟环境（推荐）
+2.  创建并激活虚拟环境（推荐）
 
 *   macOS/Linux 系统
 
@@ -33,17 +33,17 @@ python3 -m venv clashBindwidthSub
 source clashBindwidthSub/bin/activate
 ```
 
-2.  安装项目依赖
+3.  安装项目依赖
 
 ```
 pip install seleniumbase BeautifulSoup4 webdriver-manager undetected-chromedriver
 ```
 
-3.  安装chrome浏览器（如已安装忽略）和jq命令
+4.  安装chrome浏览器（如已安装忽略）和jq命令
 
-4.  （关键）修改shell脚本中的路径为对应的路径，修改Python脚本中url需要替换的id号为你的id号(可通过浏览器devTools查看你的id)，以及用户名和密码为你的账号信息，并保存
+5.  （关键）修改shell脚本中的路径为对应的路径，修改Python脚本中url需要替换的id号为你的id号(可通过浏览器devTools查看你的id)，以及用户名和密码为你的账号信息，并保存
 
-5.  编译go文件，生成可执行文件
+6.  编译go文件，生成可执行文件
 
 ```
 cd clashBindwidthSub
