@@ -26,7 +26,7 @@ def log_output(message, to_console=False, to_file=True):
             timestamp = datetime.now().strftime("[%Y-%m-%d %H:%M:%S]")
             f.write(f"{timestamp} {message}\n")
 login_url = "https://app.vmiss.com/login "            # 替换为你的登录页面地址
-protected_url = "https://app.vmiss.com/clientarea.php?action=productdetails&id=103051&getJSON "    # 登录后才能访问的页面
+protected_url = "https://app.vmiss.com/clientarea.php?action=productdetails&id=替换为你的id号&getJSON "    # 登录后才能访问的页面
 cookie_file_name = "vmiss_cookies.pkl"
 cookie_file_path = "saved_cookies/" + cookie_file_name + ".txt"                   # 用于保存 cookies 的文件名
 
